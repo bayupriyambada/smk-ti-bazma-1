@@ -1,0 +1,7 @@
+Langkah update menggunakan git:
+
+1. git status = untuk mengecek file yang berubah
+2. git add . = semua file yang ada di direktori akan di push
+3. git add namafolder / namafile = file tertentu yang akan di push
+4. git sommit -m "perubahankeduakali"
+5. git push -u origin master/main.
